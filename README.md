@@ -1,5 +1,5 @@
 # csaw-2016-ctf-coinslot
-This is my solution for the CSAW 2016 CTF coinslot problem.
+This is my solution for the CSAW 2016 CTF quals coinslot problem.
 
 For this problem you would connect to a server that would print some output. You needed to process the output and then make the appropriate response.
 
